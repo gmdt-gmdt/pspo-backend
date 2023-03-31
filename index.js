@@ -7,8 +7,8 @@ const path = require("path");
 
 const app = express();
 dotenv.config();
-const PORT = 5000;
-const DEFAULT_DATA_BASE = "default.sqlite";
+const PORT = 3000;
+const DEFAULT_DATA_BASE = "database/ExoQuizz.sqlite";
 
 //middleWares
 app.use(cors());
@@ -299,7 +299,7 @@ const createError = (status, message) => {
 };
 
 // for starting port
-app.listen(process.env.PORT, () => {
+app.listen(process.env.PORT || PORT, () => {
   console.log(`Quiz pspo working on port ${process.env.PORT ?? PORT}`);
 });
 // TODO: if the project grows ==> separate the business lines: database, services, controllers, index and app
