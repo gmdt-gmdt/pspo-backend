@@ -25,10 +25,10 @@ app.use((err, req, res, next) => {
     stack: err.stack,
   });
 });
-app.use(express.static("build"));
+app.use(express.static("public"));
 //index.js
 app.get("/", (req, res) => {
-  res.sendFile("index.html", { root: path.join(__dirname, "build") });
+  res.sendFile("index.html", { root: path.join(__dirname, "public") });
 });
 
 //connect to sqlite3 database
