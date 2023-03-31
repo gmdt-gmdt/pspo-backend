@@ -3,6 +3,7 @@ const sqlite3 = require("sqlite3");
 const bodyParser = require("body-parser");
 const cors = require("cors");
 const dotenv = require("dotenv");
+const path = require("path");
 
 const app = express();
 dotenv.config();
@@ -21,6 +22,11 @@ app.use((err, req, res, next) => {
     message: errorMessage,
     stack: err.stack,
   });
+});
+app.use(express.static("public"));
+//index.js
+app.get("/", (req, res) => {
+  res.sendFile("index.html", { root: path.join(__dirname, "public") });
 });
 
 //connect to sqlite3 database
@@ -50,7 +56,6 @@ async function createIfNotExists() {
     `,
       []
     );
-    
   } catch (error) {
     //console.error(error);
     //next(error);
@@ -91,7 +96,6 @@ app.get("/type-quiz", async (req, res, next) => {
     next(error);
   }
 });
-
 
 //read
 app.get("/questions", async (req, res, next) => {
