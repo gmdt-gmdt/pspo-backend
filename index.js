@@ -8,7 +8,7 @@ const path = require("path");
 const app = express();
 dotenv.config();
 const PORT = 3000;
-const DEFAULT_DATA_BASE = "./database/ExoQuizz.sqlite";
+const DEFAULT_DATA_BASE = "ExoQuizz.sqlite";
 
 //middleWares
 app.use(cors());
