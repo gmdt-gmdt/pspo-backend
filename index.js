@@ -8,7 +8,9 @@ const path = require("path");
 const app = express();
 dotenv.config();
 const PORT = 3000;
-const DEFAULT_DATA_BASE = "ExoQuizz.sqlite";
+
+// Get the location of database.sqlite file
+const DEFAULT_DATA_BASE = path.resolve(__dirname, "database/ExoQuizz.sqlite");
 
 //middleWares
 app.use(cors());
@@ -30,7 +32,7 @@ app.get("/", (req, res) => {
 });
 
 //connect to sqlite3 database
-const db = new sqlite3.Database(process.env.DATA_BASE ?? DEFAULT_DATA_BASE);
+const db = new sqlite3.Database(DEFAULT_DATA_BASE);
 createIfNotExists();
 
 async function createIfNotExists() {
