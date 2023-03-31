@@ -59,8 +59,7 @@ async function createIfNotExists() {
       []
     );
   } catch (error) {
-    //console.error(error);
-    //next(error);
+    console.error(error);
   }
 
   await dbRun(`CREATE TABLE IF NOT EXISTS Questions (
