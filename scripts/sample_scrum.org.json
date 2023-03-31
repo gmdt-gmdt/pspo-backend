@@ -1,0 +1,785 @@
+{
+  "result": {
+    "test_sections": [
+      {
+        "pages": [
+          {
+            "page": 1,
+            "prev_question_count": 0,
+            "contents": [
+              {
+                "id": 24822551,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] A first Sprint can start before the Product Owner has a complete and exhaustive Product Backlog in place.",
+                "user_answer": "c660d2e3e3326779eef0aa3e3d43d380",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "c660d2e3e3326779eef0aa3e3d43d380",
+                    "content": "True"
+                  },
+                  {
+                    "id": "9fc88dbb736edf28d870bec2b6cf87d9",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "prev_question_count": 1,
+            "contents": [
+              {
+                "id": 24822533,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Who creates the Definition of Done?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "0a6d32b64d7c60f2fb707883f5465761",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "0a6d32b64d7c60f2fb707883f5465761",
+                    "content": "The organization (or the Scrum Team if none is available from the organization)."
+                  },
+                  {
+                    "id": "68533b2d37835fdff170fdd24815b023",
+                    "content": "The Scrum Master as they are responsible for the Scrum Team's productivity."
+                  },
+                  {
+                    "id": "4fde300966ff67063e4b9b75d72db325",
+                    "content": "The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions."
+                  },
+                  {
+                    "id": "5ccb1374dfd5507723db789bfcb46004",
+                    "content": "The Product Owner as they are responsible for the product's success."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "prev_question_count": 2,
+            "contents": [
+              {
+                "id": 24822528,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "49ac1530768848e584b5ae187a82593c",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "28f4b8cf601e86226f60f06664d9ed81",
+                    "content": "A Product or Release burn-down chart."
+                  },
+                  {
+                    "id": "48f25312d566114fcda8ab0586ba8923",
+                    "content": "A Value burn-up chart."
+                  },
+                  {
+                    "id": "d484ed4aa36559bc8f2535a2aa5e6612",
+                    "content": "A Gantt chart."
+                  },
+                  {
+                    "id": "49ac1530768848e584b5ae187a82593c",
+                    "content": "Any practice based on trends of work completed and upcoming work."
+                  },
+                  {
+                    "id": "40e2a38503ed202bbfc5754519ac8167",
+                    "content": "A Sprint Review acceptance report."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "prev_question_count": 3,
+            "contents": [
+              {
+                "id": 24822543,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "7fff16a055bec5e2e0de897e89c3d2b0",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2644a82d747467c364c9fab1416d2e38",
+                    "content": "Timeboxes assure the Product Owner that the Developers will finish all work on the Sprint Backlog by the end of the Sprint."
+                  },
+                  {
+                    "id": "7f7a927d0dcecb3d141204ac96166098",
+                    "content": "At the end of each Sprint when the timebox expires a detailed report with all test cases and test results is available."
+                  },
+                  {
+                    "id": "7fff16a055bec5e2e0de897e89c3d2b0",
+                    "content": "Timeboxes help minimize risk by creating the opportunity to validate assumptions using feedback from users and the market; allowing Scrum Teams to inspect progress toward the Product Goal and decide whether to pivot or persevere."
+                  },
+                  {
+                    "id": "84f7163c7a4d5c3d635d05c271aaff71",
+                    "content": "Timeboxes help by making sure a Sprint does not stop until all testing is done, and the work is verified by the Product Owner."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "prev_question_count": 4,
+            "contents": [
+              {
+                "id": 26247239,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When does a Developer become accountable for the value of a Product Backlog item selected for the Sprint?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "9683343d0b43b693d923a68990da90c7",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "9683343d0b43b693d923a68990da90c7",
+                    "content": "Never. The entire Scrum Team is accountable for creating value every Sprint."
+                  },
+                  {
+                    "id": "f92b7fab36237301044a718654c6dc20",
+                    "content": "At the Sprint Planning Event."
+                  },
+                  {
+                    "id": "d86c4aaf105704b4e74fc63659683fd4",
+                    "content": "Whenever a team member can accommodate more work."
+                  },
+                  {
+                    "id": "e4fb8ede0ff9fc4c34f771082d1bceaa",
+                    "content": "During the Daily Scrum."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "prev_question_count": 5,
+            "contents": [
+              {
+                "id": 24822612,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.",
+                "user_answer": "966611e87927df910e025c4951a12379",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2b71bcf17de3a287dabc7dd30729bf50",
+                    "content": "True"
+                  },
+                  {
+                    "id": "966611e87927df910e025c4951a12379",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "prev_question_count": 6,
+            "contents": [
+              {
+                "id": 24822538,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "What two things best help the Product Owner manage the value of a product?\r\n\r\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "0734d6f54ae92b6bd0c41067db023e6b",
+                  "d7d6d79ec60d65daa79cb65daa1020c2"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d7d6d79ec60d65daa79cb65daa1020c2",
+                    "content": "The order of the Product Backlog."
+                  },
+                  {
+                    "id": "6f557dff92dd1801d6e70bb69e16f0a9",
+                    "content": "Setting value on individual Product Backlog items using Value Poker."
+                  },
+                  {
+                    "id": "f34a30f90dda0521287048d77b57c493",
+                    "content": "Devising a formula for a neutral calculation of value."
+                  },
+                  {
+                    "id": "0734d6f54ae92b6bd0c41067db023e6b",
+                    "content": "Validating assumptions of value through frequent releases."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "prev_question_count": 7,
+            "contents": [
+              {
+                "id": 24822529,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How does an organization know that a product built using Scrum is successful?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "2838efaa43d372ad7dd704de7c0cfadb",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2838efaa43d372ad7dd704de7c0cfadb",
+                    "content": "By releasing frequently, and measuring the value customers/users experience."
+                  },
+                  {
+                    "id": "1db86db168853c43fa6116ebf24a344b",
+                    "content": "By measuring that velocity has increased since the last release."
+                  },
+                  {
+                    "id": "095a116f2bd78b01ab47ef851297ec14",
+                    "content": "By measuring the actual time spent on development versus the time estimated for development."
+                  },
+                  {
+                    "id": "986f42e515aa92bdd9364ca3bfa755f8",
+                    "content": "By the Product Owner and stakeholders accepting the Increment at the Sprint Review."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "prev_question_count": 8,
+            "contents": [
+              {
+                "id": 24822527,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What variables should a Product Owner consider when ordering the Product Backlog?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "88d83d8bb26c7cfea3030e7eae5d5c17",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "4fa71d3a179c4b8c790fd89c7f84fc45",
+                    "content": "Lowest development cost in order to maximize Return on Investment (ROI)."
+                  },
+                  {
+                    "id": "bcc5f23a8acfc0271fb2e99597b2ad48",
+                    "content": "The availability of resources and skills for implementation."
+                  },
+                  {
+                    "id": "295305f3ef15a8babce06e73010c9b48",
+                    "content": "Effort first, then value."
+                  },
+                  {
+                    "id": "ade125de509175be1de6d5a70ffdd2c4",
+                    "content": "Development cohesion as indicated by the Developers."
+                  },
+                  {
+                    "id": "88d83d8bb26c7cfea3030e7eae5d5c17",
+                    "content": "Anything that informs them to achieve the product's goals and to optimize the value delivered."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "prev_question_count": 9,
+            "contents": [
+              {
+                "id": 24822545,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "A Product Owner is entitled to postpone the start of a new Sprint after the conclusion of a previous Sprint for the following reason:\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "dc426ec44c4a963a48ce3305f30f454f",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "40cdbff47b83b49e04eabfdbb8a1f03d",
+                    "content": "The stakeholders are not happy with the value produced in the previous Sprint."
+                  },
+                  {
+                    "id": "dc426ec44c4a963a48ce3305f30f454f",
+                    "content": "There is no acceptable reason. A new Sprint starts immediately after the conclusion of the previous Sprint."
+                  },
+                  {
+                    "id": "4ee44ce2c8207cb52261adefe969b829",
+                    "content": "Not enough Product Backlog items are ready."
+                  },
+                  {
+                    "id": "060bc060da4e270fc842211c09b28f1a",
+                    "content": "The Quality Assurance department needs more time to make the previous Increment complete."
+                  },
+                  {
+                    "id": "bb0a21e011a89113f7e8fc282fb9fb49",
+                    "content": "The Product Owner has not identified a Sprint Goal."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "prev_question_count": 10,
+            "contents": [
+              {
+                "id": 29428265,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "To create focus which of the following are most important to have ready when Sprint Planning begins?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "3e6b887c04c436533c22c8abed7c8f0c",
+                  "c07e4e39e0ad2ae813902fac2b38147b"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "3e6b887c04c436533c22c8abed7c8f0c",
+                    "content": "A Product Goal communicated by the Product Owner."
+                  },
+                  {
+                    "id": "90a606b9f0f6d8896b72bed91fc075b0",
+                    "content": "A clear and non-negotiable Sprint Goal."
+                  },
+                  {
+                    "id": "14ff6fc402fea99827f982d71a9a42bf",
+                    "content": "A fully refined Product Backlog."
+                  },
+                  {
+                    "id": "de0ac4c3117cf6c948dcd9fab4be8279",
+                    "content": "A clear cadence of when the Daily Scrum will take place."
+                  },
+                  {
+                    "id": "c07e4e39e0ad2ae813902fac2b38147b",
+                    "content": "A Product Backlog with the most important items ready for discussion."
+                  },
+                  {
+                    "id": "aa5f1cbfb348473224e96702c6f46814",
+                    "content": "Formal budget approval to conduct another Sprint."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "prev_question_count": 11,
+            "contents": [
+              {
+                "id": 25865249,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How important is it for a Product Owner to order Product Backlog items by using value points?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "2effee59fb78cd3324880811fb4631a1",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2effee59fb78cd3324880811fb4631a1",
+                    "content": "The Product Owner may order the Product Backlog by using value points or select another technique, the decision is up to them."
+                  },
+                  {
+                    "id": "0e62484ecb95283144a1a5ce21fc829f",
+                    "content": "Using value points is the ultimate way for a Product Owner to predict the value that the product will provide."
+                  },
+                  {
+                    "id": "53eff1d584da7188892f7375cdf6181e",
+                    "content": "Calculating value points is a predictive approach that conflicts with the empiricism of Scrum, and is therefore not acceptable."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "prev_question_count": 12,
+            "contents": [
+              {
+                "id": 24822550,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "77818e37c49bbe84b67c41505c2c3f02",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "4e4c90034d33869cb229efde7bdb512c",
+                    "content": "Skip Product Backlog refinement activities."
+                  },
+                  {
+                    "id": "47f50936edb304f5070d23846c3089dc",
+                    "content": "Inform management that more resources are needed."
+                  },
+                  {
+                    "id": "e01f73184e7e6f265c69f20269fa90bb",
+                    "content": "Change the Sprint Goal."
+                  },
+                  {
+                    "id": "77818e37c49bbe84b67c41505c2c3f02",
+                    "content": "Re-negotiate the selected Product Backlog items with the Developers."
+                  },
+                  {
+                    "id": "d0134c87fb410a8d1f31145b67cf0240",
+                    "content": "Cancel the Sprint."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "prev_question_count": 13,
+            "contents": [
+              {
+                "id": 24822542,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Adaptation requires regular inspection. In what ways does the Product Owner contribute to the results achieved by inspection ?\r\n\r\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "d1a5edf3627d9fc3aea1e077ff9dad13",
+                  "01d555cd95d48bb906a21cb603cbd37e"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "68de298305284c5f6d4e0db81a3008a5",
+                    "content": "The Product Owner inspects the Sprint burn-down at the Daily Scrum for progress towards a complete Increment and re-planning the team's work."
+                  },
+                  {
+                    "id": "d1a5edf3627d9fc3aea1e077ff9dad13",
+                    "content": "The Product Owner invites stakeholders to the Sprint Review to learn how the current state of the marketplace influences what is the most valuable thing to do next."
+                  },
+                  {
+                    "id": "dfc5ebb261f6a7f0f1db2119f25b3446",
+                    "content": "The Product Owner verifies the Sprint Backlog for completeness at the end of Sprint Planning in order to allow the Sprint to start."
+                  },
+                  {
+                    "id": "01d555cd95d48bb906a21cb603cbd37e",
+                    "content": "The Product Owner shares the current state of Product Backlog at the Sprint Review, which, combined with the inspection of the Increment, leads to an updated Product Backlog."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "prev_question_count": 14,
+            "contents": [
+              {
+                "id": 24822535,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "[b]True or False:[/b] The Sprint Review is the only time at which stakeholder feedback is taken into account.",
+                "user_answer": "ae7709b610e3ccd812ded92ac568c0c2",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "28b5257e51fe4a050facc2858efeb514",
+                    "content": "True"
+                  },
+                  {
+                    "id": "ae7709b610e3ccd812ded92ac568c0c2",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          }
+        ],
+        "settings": []
+      }
+    ],
+    "test_feedback": "Congratulations! Your score on the Product Owner Open assessment demonstrates you know some Product Owner basics.\r\n\r\nScrum on,\r\nKen Schwaber",
+    "category_statistics": null,
+    "points_scored": null,
+    "points_available": null,
+    "points_percentage": 100,
+    "date_started": "Tue 14 Mar '23 10:49",
+    "date_finished": "Tue 14 Mar '23 10:54",
+    "duration_in_sec": 270,
+    "duration": "00:04:30",
+    "question_feedbacks": {
+      "24822527": {
+        "question_id": 24822527,
+        "feedback": "The Product Owner is responsible for ordering the items in the Product Backlog to best achieve the Product Goal, thereby optimizing the value of the work the Developers perform. How this is done, and what value means, may vary widely across organizations.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "88d83d8bb26c7cfea3030e7eae5d5c17",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822528": {
+        "question_id": 24822528,
+        "feedback": "Various practices upon trending have been used to forecast progress, like burn-downs, burn-ups, or cumulative flows. These have proven useful, but none are mandatory, and care should be taken because none can replace the importance of empiricism. What will happen is unknown, no matter what has happened.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "49ac1530768848e584b5ae187a82593c",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822529": {
+        "question_id": 24822529,
+        "feedback": "Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback. If a product is not released, the opportunity to capture user and market feedback is lost.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "2838efaa43d372ad7dd704de7c0cfadb",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822533": {
+        "question_id": 24822533,
+        "feedback": "If the Definition of Done for an Increment is part of the standards of the organization, all Scrum Teams must follow it as a minimum. If it is not an organizational standard, the Scrum Team must create a Definition of Done appropriate for the product.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "0a6d32b64d7c60f2fb707883f5465761",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822535": {
+        "question_id": 24822535,
+        "feedback": "A Product Owner engages actively and regularly with stakeholders. However, to limit the disturbance to the development progress and keep focus high, the stakeholders have a formal role in the process at the Sprint Review only.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "ae7709b610e3ccd812ded92ac568c0c2",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822538": {
+        "question_id": 24822538,
+        "feedback": "The Product Owner manages Product Backlog against the assumption that value will be generated. Indications of value on Product Backlog are useful but are only a prediction until validated against users and market.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": [
+          "d7d6d79ec60d65daa79cb65daa1020c2",
+          "0734d6f54ae92b6bd0c41067db023e6b"
+        ],
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822542": {
+        "question_id": 24822542,
+        "feedback": "Scrum users must frequently inspect Scrum artifacts and progress to detect undesirable variances. The primary tool for the Product Owner to uphold transparency is the Product Backlog. Product Backlog is a living artifact that is actively maintained and updated to reflect reality. At the Sprint Review, attendees collaborate on the next things that could be done to optimize value, which is processed into an updated Product Backlog.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": [
+          "01d555cd95d48bb906a21cb603cbd37e",
+          "d1a5edf3627d9fc3aea1e077ff9dad13"
+        ],
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822543": {
+        "question_id": 24822543,
+        "feedback": "The Product Owner manages the Product Backlog against the assumption that value will be generated. This assumption remains invalidated when not checked against users and the market. When a Sprint's horizon is too long, you increase the risk that what is being developed may no longer be desired. Sprints limit risk to one calendar month or less of work.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "7fff16a055bec5e2e0de897e89c3d2b0",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822545": {
+        "question_id": 24822545,
+        "feedback": "A new Sprint starts immediately after the conclusion of the previous Sprint.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "dc426ec44c4a963a48ce3305f30f454f",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822550": {
+        "question_id": 24822550,
+        "feedback": "During the Sprint, scope may be clarified and re-negotiated between the Product Owner and Developers as more is learned.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "77818e37c49bbe84b67c41505c2c3f02",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822551": {
+        "question_id": 24822551,
+        "feedback": "A first Sprint requires no more than a Scrum Team and enough ideas to potentially complete a full Sprint.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "c660d2e3e3326779eef0aa3e3d43d380",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "24822612": {
+        "question_id": 24822612,
+        "feedback": "An earlier version of the Scrum Guide prescribed the practice of placing one improvement in the Sprint Backlog. This was removed in the 2020 update to the Scrum Guide because it was felt to be too prescriptive. However, if this practice provides value to you then you should adopt it. It is simply not prescribed anymore, but can still be valuable.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "966611e87927df910e025c4951a12379",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "25865249": {
+        "question_id": 25865249,
+        "feedback": "The Product Owner is accountable for ordering the Product backlog, regardless of the techniques they may utilize to define that order. Indications of value on Product Backlog items may be useful but are only a prediction until validated by users and the market.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "2effee59fb78cd3324880811fb4631a1",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "26247239": {
+        "question_id": 26247239,
+        "feedback": "All members of the Scrum Team share in the accountability for creating value every Sprint.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": "9683343d0b43b693d923a68990da90c7",
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      },
+      "29428265": {
+        "question_id": 29428265,
+        "feedback": "Sprint Planning initiates the Sprint by laying out the work to be performed for the Sprint. This resulting plan is created by the collaborative work of the entire Scrum Team. The Product Owner ensures that attendees are prepared to discuss the most important Product Backlog items and how they map to the Product Goal.",
+        "point_scored": null,
+        "point_percentage": 100,
+        "correct_answer": [
+          "3e6b887c04c436533c22c8abed7c8f0c",
+          "c07e4e39e0ad2ae813902fac2b38147b"
+        ],
+        "full_mark": true,
+        "point_available": null,
+        "grade_required": 0,
+        "flagged": false,
+        "has_bookmarked": false
+      }
+    },
+    "pass": true,
+    "time_out": 0,
+    "return_url": "https://www.scrum.org/open-assessments/product-owner-open",
+    "return_url_text": "Return to Scrum.org",
+    "certificate_url": null,
+    "receipt_url": null,
+    "completed_by_teacher": false
+  },
+  "extra_info_questions": [],
+  "user": {
+    "first_name": null,
+    "last_name": null,
+    "email": null,
+    "extra_info_questions": []
+  }
+}

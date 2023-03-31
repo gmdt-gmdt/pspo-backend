@@ -1,0 +1,3014 @@
+{
+  "result": {
+    "test_sections": [
+      {
+        "pages": [
+          {
+            "page": 1,
+            "prev_question_count": 0,
+            "contents": [
+              {
+                "id": 25029006,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "The Daily Scrum is an event that happens every day. What would be three key concerns if the frequency were to be lowered to every two or three days?\r\n\r\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "ab83e3c650216b9bb45fc973d78846df",
+                  "8f24ddeff03bb1b99471d6acaf80a792",
+                  "a46147bb913888a20703ce8196ed23b4"
+                ],
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "a46147bb913888a20703ce8196ed23b4",
+                    "content": "The Sprint Backlog may become inaccurate."
+                  },
+                  {
+                    "id": "ab83e3c650216b9bb45fc973d78846df",
+                    "content": "Impediments are raised and resolved more slowly."
+                  },
+                  {
+                    "id": "8f24ddeff03bb1b99471d6acaf80a792",
+                    "content": "Opportunities to inspect and adapt the Sprint Backlog are lost."
+                  },
+                  {
+                    "id": "847ae117af542d30923cfee00711ecfc",
+                    "content": "Too much work is spent updating the Scrum board before the meeting."
+                  },
+                  {
+                    "id": "f873e75c901b1d2a44f4a1b8ef741897",
+                    "content": "The Product Owner cannot accurately report progress to the stakeholders."
+                  },
+                  {
+                    "id": "f86617855a3dfc79ae4860e08934f673",
+                    "content": "The Scrum Master loses the ability to update the Gantt chart properly."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 2,
+            "prev_question_count": 1,
+            "contents": [
+              {
+                "id": 28399600,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How much time must a Product Owner spend with the Developers?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "fe4e6c0cd4a999f9ce64750a4679a2b9",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d37d95c93fdafe626bc41fdfd06d3575",
+                    "content": "100%"
+                  },
+                  {
+                    "id": "fe4e6c0cd4a999f9ce64750a4679a2b9",
+                    "content": "Enough so that the Product Owner is confident the Increment will meet the intended value."
+                  },
+                  {
+                    "id": "a74ec6d7c466694c2ac032f774598eb0",
+                    "content": "40%, or more if the stakeholders agree."
+                  },
+                  {
+                    "id": "0aeee80d8e41ab5f4c1e375682cf7c4b",
+                    "content": "As much time as the Developers tell the Product Owner to be present."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 3,
+            "prev_question_count": 2,
+            "contents": [
+              {
+                "id": 30361388,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which statement best describes the Sprint Backlog as the output of the Sprint Planning?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "0ca25d22a804422aa368c74cc8dc8e96",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "0ca25d22a804422aa368c74cc8dc8e96",
+                    "content": "It is a complete list of all work to be done in a Sprint."
+                  },
+                  {
+                    "id": "2ec881b1e65f5299ddb93cb2db7622ef",
+                    "content": "Every item has a designated owner."
+                  },
+                  {
+                    "id": "985d43617dc7885149602bf831b948b3",
+                    "content": "Each task is estimated in hours."
+                  },
+                  {
+                    "id": "796a23d3f97cd90fe57388834e4518d1",
+                    "content": "It is the Developers plan for the Sprint."
+                  },
+                  {
+                    "id": "973b5c02231ebd09a5d9bee86a816cc6",
+                    "content": "It is ordered by the Product Owner."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 4,
+            "prev_question_count": 3,
+            "contents": [
+              {
+                "id": 25029044,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How should a Scrum Team deal with non-functional requirements?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "328a8036ad84b76c0db16d0bd5f56fad",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "f2030bd5e9c69afba18ddef7ec135e8c",
+                    "content": "Make sure the release department understands these requirements, but it is not the Scrum Team’s responsibility."
+                  },
+                  {
+                    "id": "05611328e0e2dca5ebb9585d485cf023",
+                    "content": "Assign them to the lead developers on the team."
+                  },
+                  {
+                    "id": "08785604f1a34b8ee09352266329ec78",
+                    "content": "Manage them during the Integration Sprint prior to the Release Sprint."
+                  },
+                  {
+                    "id": "328a8036ad84b76c0db16d0bd5f56fad",
+                    "content": "Ensure every Increment meets them."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 5,
+            "prev_question_count": 4,
+            "contents": [
+              {
+                "id": 25028945,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The timebox for a Daily Scrum is?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "2532e44c997172a912857dd434d89b39",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "04745cb8436a93c7b9d70713762739c8",
+                    "content": "4 hours."
+                  },
+                  {
+                    "id": "eaa806b117558f3c60c56cd47b250ef5",
+                    "content": "The same time of day every day."
+                  },
+                  {
+                    "id": "e38faae3492d7465ed55bb68df1c25e4",
+                    "content": "Two minutes per person."
+                  },
+                  {
+                    "id": "2532e44c997172a912857dd434d89b39",
+                    "content": "15 minutes."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 6,
+            "prev_question_count": 5,
+            "contents": [
+              {
+                "id": 25029489,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "d5b003e35e5591e4a1d140ff612829a2",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "e5f07e2fd1d759004c376752756338e4",
+                    "content": "The Product Backlog is only updated at the Sprint Review, when both the Scrum Team and the stakeholders are available."
+                  },
+                  {
+                    "id": "d5b003e35e5591e4a1d140ff612829a2",
+                    "content": "The Product Backlog is continually kept up to date with the most recent insights."
+                  },
+                  {
+                    "id": "38709e0220fcf415c83f2515f15f107c",
+                    "content": "The Product Backlog is only updated at a release planning meeting with the stakeholders and the change control board present."
+                  },
+                  {
+                    "id": "6f37c6a8973262293b342c38d634cf6b",
+                    "content": "Product Backlog items must be sized such that the highest ordered items are no bigger than a Sprint."
+                  },
+                  {
+                    "id": "8943c364e14c1b2baf4fc180f10abae0",
+                    "content": "Product Backlog items should hold no more than 8 points of work, which is the average in the range of acceptable sizes of 1, 2, 3, 5, 8, and 13."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 7,
+            "prev_question_count": 6,
+            "contents": [
+              {
+                "id": 29636210,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The Product Owner is the person who will be held accountable if a product does not achieve its goals or deliver value. Does this mean that the Product Owner has final say over the Definition of Done?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "d2b7443f576e8aef8aa5eeddaf0750cc",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "6e355f7b23758447cfe3528d76f89544",
+                    "content": "Yes, the Product Owner decides the Definition of Done. The Developers may be consulted."
+                  },
+                  {
+                    "id": "d2b7443f576e8aef8aa5eeddaf0750cc",
+                    "content": "No, the Scrum Team decides the Definition of Done, if it is not a standard of the organization. The Product Owner is just one member of the Scrum Team."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 8,
+            "prev_question_count": 7,
+            "contents": [
+              {
+                "id": 25029449,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] A Product Owner is essentially the same thing as a traditional Project Manager.",
+                "user_answer": "acabdd4874c122be8bfad56566ea804e",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "050669e306fb51a9e7a6ddc70d1892c2",
+                    "content": "True"
+                  },
+                  {
+                    "id": "acabdd4874c122be8bfad56566ea804e",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 9,
+            "prev_question_count": 8,
+            "contents": [
+              {
+                "id": 25028948,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The Scrum Team should have all the skills needed to:\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "4addeac7a3134309ae5ebcf446c37312",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "45f4fc7039b3492b92fcec0ad6c73b5d",
+                    "content": "Complete the project within the date and cost as calculated by the Product Owner."
+                  },
+                  {
+                    "id": "919a493e5fee5f9b68f61800229fbf2e",
+                    "content": "Do all of the development work, except for specialized testing that requires additional tools and environments."
+                  },
+                  {
+                    "id": "4addeac7a3134309ae5ebcf446c37312",
+                    "content": "Turn Product Backlog items into a valuable, useful Increment."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 10,
+            "prev_question_count": 9,
+            "contents": [
+              {
+                "id": 25029043,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which approach is best for Scrum Teams in order to produce valuable Increments?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "525fd53c8a7ac5543c0f79466aa34b0d",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d44210f18760f83954bfa717c712f666",
+                    "content": "Each Developer works on the component where they feel that they can contribute."
+                  },
+                  {
+                    "id": "7023c02d5042751905427792363c2708",
+                    "content": "Each Scrum Team works on an independent set of components."
+                  },
+                  {
+                    "id": "525fd53c8a7ac5543c0f79466aa34b0d",
+                    "content": "Each Scrum Team is accountable for developing functionality from beginning to end."
+                  },
+                  {
+                    "id": "f92f7e6ac31d3c9ebecf903c921493bf",
+                    "content": "Each Scrum Member works only as an independent layer of the system."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 11,
+            "prev_question_count": 10,
+            "contents": [
+              {
+                "id": 25029459,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] When there are multiple teams working on one product, each Scrum Team should have a separate Product Owner.",
+                "user_answer": "b17096449c1b4f9ddccc2ca2e67da8c0",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "b4484c20942e5b86d05a87d4b034a0cf",
+                    "content": "True"
+                  },
+                  {
+                    "id": "b17096449c1b4f9ddccc2ca2e67da8c0",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 12,
+            "prev_question_count": 11,
+            "contents": [
+              {
+                "id": 29636213,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] Product Owners must specify complete acceptance criteria for a Product Backlog item before the Developers can select the item in Sprint Planning.",
+                "user_answer": "f1767fd48cccdcc03b9414cb602fe7fa",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2785236a61d8aee211565493bd62b5a2",
+                    "content": "True"
+                  },
+                  {
+                    "id": "f1767fd48cccdcc03b9414cb602fe7fa",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 13,
+            "prev_question_count": 12,
+            "contents": [
+              {
+                "id": 25028972,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which of the following is required by Scrum?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "93370491b224f775d0e4460fdb32ec19",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "93370491b224f775d0e4460fdb32ec19",
+                    "content": "Sprint Retrospective."
+                  },
+                  {
+                    "id": "1962b00ac5d2fbb64de9caa23e47d065",
+                    "content": "Developers must stand up at the Daily Scrum."
+                  },
+                  {
+                    "id": "40fb001e316316f385e19f8ea10c6a87",
+                    "content": "Sprint Burndown Chart."
+                  },
+                  {
+                    "id": "9e4accaf5a63ed4fe4d1a07d2ec5d9f2",
+                    "content": "Release Planning."
+                  },
+                  {
+                    "id": "8c7ef098de8ffa633465d761d8492129",
+                    "content": "All of the above."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 14,
+            "prev_question_count": 13,
+            "contents": [
+              {
+                "id": 25029485,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] Dependencies could influence how the Product Owner orders Product Backlog items.",
+                "user_answer": "62fcbbb1bfa6cb43c8f8365efe89ceca",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "62fcbbb1bfa6cb43c8f8365efe89ceca",
+                    "content": "True"
+                  },
+                  {
+                    "id": "c5c61e320259f678a47b0fdf086f4215",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 15,
+            "prev_question_count": 14,
+            "contents": [
+              {
+                "id": 25029013,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The length of a Sprint should be:\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "473727b2fcc34fe7d0e6715473b36190",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "460a820a5cd72507f8144111169ad2fa",
+                    "content": "Short enough to keep the business risk acceptable to the Product Owner."
+                  },
+                  {
+                    "id": "f946cafebad0e41034f8ad9b4fb63b2b",
+                    "content": "Short enough to be able to synchronize the development work with other business events."
+                  },
+                  {
+                    "id": "261fcf0726ab635833838db70634b4b0",
+                    "content": "No more than one calendar month."
+                  },
+                  {
+                    "id": "473727b2fcc34fe7d0e6715473b36190",
+                    "content": "All of the above."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 16,
+            "prev_question_count": 15,
+            "contents": [
+              {
+                "id": 29636206,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "If Product Backlog refinement is needed, when is the ideal time for refinement to take place and who should participate?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "46ca77884c7151ece7dda76720ff838f",
+                  "e88a63bc782d16392e4ead1c3691c205"
+                ],
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "44bbe3d98121382a6529c134b404322c",
+                    "content": "The Product Owner takes the time between the end of one Sprint and the start of the next Sprint to complete refinement."
+                  },
+                  {
+                    "id": "b6997249c6b421411021347f88ca19a2",
+                    "content": "Business analysts in the organization should do this work for the Scrum Team 1-2 Sprints ahead of the development Sprints."
+                  },
+                  {
+                    "id": "e88a63bc782d16392e4ead1c3691c205",
+                    "content": "The Scrum Team on an ongoing basis, defining Product Backlog items into smaller more precise items that are ready for selection."
+                  },
+                  {
+                    "id": "9c716afeab2f8ad9335f96cd41093072",
+                    "content": "The Product Owner must do this as essential work in Sprint 0."
+                  },
+                  {
+                    "id": "46ca77884c7151ece7dda76720ff838f",
+                    "content": "The Scrum Team during the current Sprint, if they have been unable during preceding Sprints to define Product Backlog items with enough precision to begin work."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 17,
+            "prev_question_count": 16,
+            "contents": [
+              {
+                "id": 29636214,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] During the Sprint Review the stakeholder's role is to reorder the Product Backlog.",
+                "user_answer": "0485a8cd1bea75f08805af7f8be883ce",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "f9f9b8582d04946b51584c20094af228",
+                    "content": "True"
+                  },
+                  {
+                    "id": "0485a8cd1bea75f08805af7f8be883ce",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 18,
+            "prev_question_count": 17,
+            "contents": [
+              {
+                "id": 25029475,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which is [b]NOT[/b] a valid consideration when ordering a Product Backlog?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "b0903e35eef8030150671574fa8ce7da",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2ee3c529576642d06e16c0d530ad3d90",
+                    "content": "Importance to customers."
+                  },
+                  {
+                    "id": "e0a1ca51b3b444569a28848f2cad1ee7",
+                    "content": "Alignment with business strategy and goals."
+                  },
+                  {
+                    "id": "bb571a14907913b7b860dadc80147c13",
+                    "content": "Risk."
+                  },
+                  {
+                    "id": "bd61fab8ee9c13c08ebe8606455d478a",
+                    "content": "Dependencies on other Product Backlog items."
+                  },
+                  {
+                    "id": "b0903e35eef8030150671574fa8ce7da",
+                    "content": "Tools and techniques."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 19,
+            "prev_question_count": 18,
+            "contents": [
+              {
+                "id": 25028960,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which best describes the Product Backlog?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "b1991f3b562e6cc94dd76f661f76f7d1",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d61227c6e1e1bcb69dcd07a20ae62263",
+                    "content": "It provides just enough information to enable a Scrum Team to start the design phase of a product."
+                  },
+                  {
+                    "id": "71d8f17b043ccf73f84a19a74e234f91",
+                    "content": "It contains all foreseeable tasks and requirements from which the Scrum Team can develop and maintain a complete project plan."
+                  },
+                  {
+                    "id": "935f289eb149b13101a10eeb201ba66d",
+                    "content": "It is baselined to follow change management processes."
+                  },
+                  {
+                    "id": "b1991f3b562e6cc94dd76f661f76f7d1",
+                    "content": "It is allowed to grow and change as more is learned about the product and its customers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 20,
+            "prev_question_count": 19,
+            "contents": [
+              {
+                "id": 25028947,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Why is the Daily Scrum held at the same time and same place?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "dc121bc3babe66fa2b0fb64eadfd0cef",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2f6a9110c6055df34f0eb10b18e12e7e",
+                    "content": "Rooms are hard to book and must be booked in advance."
+                  },
+                  {
+                    "id": "dc121bc3babe66fa2b0fb64eadfd0cef",
+                    "content": "The consistency reduces complexity."
+                  },
+                  {
+                    "id": "dddea8824faf138216a79eb5eaee864a",
+                    "content": "The Product Owner demands it."
+                  },
+                  {
+                    "id": "01a0ae2e0e279a399b56bc3a2aaf72d5",
+                    "content": "The place can be named."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 21,
+            "prev_question_count": 20,
+            "contents": [
+              {
+                "id": 25028907,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "You are the Scrum Master of a new, to be developed Product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "107e958893765403db2d9c153dd809c8",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "e559ba48a633caa3c6d6f3bbb5a601c7",
+                    "content": "What is the right mixture of senior and junior people on each team?"
+                  },
+                  {
+                    "id": "d09c3064028e4a08321988bcad061392",
+                    "content": "Who are the subject matter experts on each team?"
+                  },
+                  {
+                    "id": "67cfe080c672ffc3849fe08cdfa06d55",
+                    "content": "Who are going to be the team leads?"
+                  },
+                  {
+                    "id": "107e958893765403db2d9c153dd809c8",
+                    "content": "How will we make sure all teams have the right amount of expertise?"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 22,
+            "prev_question_count": 21,
+            "contents": [
+              {
+                "id": 29636204,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: \n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "108be97423d754a43fb3d506e53ab208",
+                  "3eddc2d03f2be9a86531c60128465781"
+                ],
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "108be97423d754a43fb3d506e53ab208",
+                    "content": "Add these features to the Product Backlog."
+                  },
+                  {
+                    "id": "d6b1ccdaef61d275e31380f403bffcf2",
+                    "content": "Introduce these features at the next Daily Scrum."
+                  },
+                  {
+                    "id": "3eddc2d03f2be9a86531c60128465781",
+                    "content": "Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal."
+                  },
+                  {
+                    "id": "e85c015c24f8b5a3b1b9b23b15290df5",
+                    "content": "Have the Scrum Master add these features to the current Sprint."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 23,
+            "prev_question_count": 22,
+            "contents": [
+              {
+                "id": 25029484,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What might indicate to a Product Owner that she needs to work more with the Scrum Team?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "f33ea18d1a6fff58e12f6f2e268523e5",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "12a0f808b589a6ecb0ff7837e9c772d1",
+                    "content": "People leave the Scrum Team."
+                  },
+                  {
+                    "id": "045319e1125f7f4b67d0b471fa1ff0f9",
+                    "content": "The acceptance criteria do not appear to be complete."
+                  },
+                  {
+                    "id": "7e12890565642886067b6ade428055ba",
+                    "content": "She is not working full time with the Scrum team."
+                  },
+                  {
+                    "id": "f33ea18d1a6fff58e12f6f2e268523e5",
+                    "content": "The Increment presented at the Sprint Review does not reflect what she thought she had asked for."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 24,
+            "prev_question_count": 23,
+            "contents": [
+              {
+                "id": 26654812,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "A new Developer is having continuing conflicts with existing members of the Scrum Team, which is impacting the delivery of the Increment. If necessary, who is responsible for removing the Developer from the Scrum Team?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "92117af7457076f17278ea96ceb0b18c",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "5b7b610a6188b2561169bc9a31a96cca",
+                    "content": "The hiring manager is responsible, they hired the Developer."
+                  },
+                  {
+                    "id": "a0c28283ab85136d25a7d14d62c05564",
+                    "content": "The Product Owner is responsible, they control the return on investment (ROI)."
+                  },
+                  {
+                    "id": "92117af7457076f17278ea96ceb0b18c",
+                    "content": "The Scrum Team is responsible."
+                  },
+                  {
+                    "id": "059b04f0d93d84f477d7a9e313dbd6cc",
+                    "content": "The Scrum Master is responsible, they remove impediments."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 25,
+            "prev_question_count": 24,
+            "contents": [
+              {
+                "id": 25029447,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Product Owner makes sure the correct stakeholders are invited to the Sprint Retrospective. They might have important instructions for team improvements.",
+                "user_answer": "370a6c5713bab4c845ee4078d736b69c",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "f909667b019fc111302fda3a1fb9b94d",
+                    "content": "True"
+                  },
+                  {
+                    "id": "370a6c5713bab4c845ee4078d736b69c",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 26,
+            "prev_question_count": 25,
+            "contents": [
+              {
+                "id": 25029462,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The value delivered by a product can only be determined by revenue.",
+                "user_answer": "0286ae8ea249df8889d6886aaa72dc8d",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "8b07e04e2e3d278a169b363e23ef6ac6",
+                    "content": "True"
+                  },
+                  {
+                    "id": "0286ae8ea249df8889d6886aaa72dc8d",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 27,
+            "prev_question_count": 26,
+            "contents": [
+              {
+                "id": 25029482,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "A Project Manager working with your Scrum Team has raised concerns about progress and money spent. What are the two best responses?\r\n\r\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "ea3fbdc26acd189c51dc46f4c8d7c676",
+                  "922c2257b96eaeab15b126d9ccd13acd"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "a28cbf9c61ae1d7a76f3cd1ca640eba0",
+                    "content": "Share the last stakeholder briefing document prepared by the Product Owner."
+                  },
+                  {
+                    "id": "9b61a4a7ed5c2b250bba6d09e8cf6a1c",
+                    "content": "Show the Earned Value Analysis (EVA) report."
+                  },
+                  {
+                    "id": "24202ba58cc6f3a7293f67be4bbfe54c",
+                    "content": "Scrum does not have Project Managers so disregard their concerns."
+                  },
+                  {
+                    "id": "ea3fbdc26acd189c51dc46f4c8d7c676",
+                    "content": "Have a discussion with the Project Manager; share the current impediments and forecast for the Sprint."
+                  },
+                  {
+                    "id": "922c2257b96eaeab15b126d9ccd13acd",
+                    "content": "Promote transparency by sharing the Product Backlog and ensuring the Project Manager has access."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 28,
+            "prev_question_count": 27,
+            "contents": [
+              {
+                "id": 29636209,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When should the Product Owner update the project plan?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "7bff76a724c457fb465b370057737426",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "c6865055ffe4f0738867f62d6bed53b1",
+                    "content": "Before the Sprint Planning to know how much work will have to be done in the Sprint."
+                  },
+                  {
+                    "id": "9a352dc399c6fbc0060d305c97ed951c",
+                    "content": "The project plan must be updated prior to the Sprint Retrospective."
+                  },
+                  {
+                    "id": "f024a83f0132e7b98710f10814d9270e",
+                    "content": "After the Daily Scrum to ensure an accurate daily overview of project progress."
+                  },
+                  {
+                    "id": "7bff76a724c457fb465b370057737426",
+                    "content": "The Product Backlog is the plan in Scrum. It is updated as new information and insights emerge."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 29,
+            "prev_question_count": 28,
+            "contents": [
+              {
+                "id": 25029460,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "How often should customer satisfaction be measured?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "6f29f5b15f0a8c119f418cf338ce586a",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "130f1eabfa98d28d3b7ff7b293bfcfd9",
+                    "content": "Annually."
+                  },
+                  {
+                    "id": "6f29f5b15f0a8c119f418cf338ce586a",
+                    "content": "Frequently."
+                  },
+                  {
+                    "id": "1c5d7e3f060b4ab28481af068f5f11e9",
+                    "content": "Quarterly."
+                  },
+                  {
+                    "id": "d261b82bad635b5217bad04558f6da9f",
+                    "content": "Daily."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 30,
+            "prev_question_count": 29,
+            "contents": [
+              {
+                "id": 25029478,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] A Product Owner with multiple teams working on one product should maintain separate Product Backlogs for each team.",
+                "user_answer": "55921af7b9baf1f06b385211e5a44bf8",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "8ff2c95a1a0e9f8c8bb36a7f5878a9e9",
+                    "content": "True"
+                  },
+                  {
+                    "id": "55921af7b9baf1f06b385211e5a44bf8",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 31,
+            "prev_question_count": 30,
+            "contents": [
+              {
+                "id": 29636200,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "What is a Product Owner typically responsible for during a Sprint?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "de82b08c153830dd54cb053b409bbec5",
+                  "3041620e6faa863f07b36255b6180b11"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "7d53b45b07c02c32f6737e4de48b27fe",
+                    "content": "Attending every Daily Scrum to answer questions about the Sprint Backlog items."
+                  },
+                  {
+                    "id": "0d3a112fd046ba00c04f5fbe975d6bb6",
+                    "content": "Creating financial reporting upon the spent hours reported by the Developers."
+                  },
+                  {
+                    "id": "6c669fbbb6938082084a82de88cd2614",
+                    "content": "Nothing."
+                  },
+                  {
+                    "id": "b4651e407e8841d4b7cba88487be2f0f",
+                    "content": "Updating the work plan for the Developers on a daily basis."
+                  },
+                  {
+                    "id": "de82b08c153830dd54cb053b409bbec5",
+                    "content": "Collaborating with stakeholders, users, and customers."
+                  },
+                  {
+                    "id": "3041620e6faa863f07b36255b6180b11",
+                    "content": "Working with the Scrum Team on Product Backlog refinement."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 32,
+            "prev_question_count": 31,
+            "contents": [
+              {
+                "id": 26550988,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What typically happens if the Product Backlog is not sufficiently clear at Sprint Planning?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "5d0985f1b78009971e385b937a055618",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "5d0985f1b78009971e385b937a055618",
+                    "content": "The Developers will find it difficult to create a Sprint forecast they are confident they can meet."
+                  },
+                  {
+                    "id": "84a5846fd695887d611db2d3c79c1a62",
+                    "content": "Sprint Planning is canceled so refinement can be done first."
+                  },
+                  {
+                    "id": "918360a09c35b03560ee560893666a72",
+                    "content": "Nothing in particular."
+                  },
+                  {
+                    "id": "23adf5ba6e33d3b08a5a43959da4d62b",
+                    "content": "The Product Owner should select the Sprint Goal for the Scrum Team so that work can begin."
+                  },
+                  {
+                    "id": "c5f31aeace7ef0f8005462861df5c5d8",
+                    "content": "The Scrum Master should not allow this to happen. Look for a new Scrum Master and re-start the Sprint."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 33,
+            "prev_question_count": 32,
+            "contents": [
+              {
+                "id": 28612505,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The \"cone of uncertainty\" can be used to do what?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "687f2315e825c595f72fc1eaa6a4c4fb",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "dc6262e2d61af4d338ae54bcf3f36482",
+                    "content": "Determine whether to cut quality, similar to the \"Iron Triangle\" of project management."
+                  },
+                  {
+                    "id": "687f2315e825c595f72fc1eaa6a4c4fb",
+                    "content": "Determine the cost of a project before it begins."
+                  },
+                  {
+                    "id": "4ae373b897e2b54b633dbdb2d2c81953",
+                    "content": "Determine the length of the next Sprint."
+                  },
+                  {
+                    "id": "dae98b7696a7b95d29efb46295098e84",
+                    "content": "Illustrate that as a project forecast lengthens, it is increasingly less certain."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 34,
+            "prev_question_count": 33,
+            "contents": [
+              {
+                "id": 28620409,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] Sprint Reviews are an opportunity to collect stakeholder feedback.",
+                "user_answer": "d9002a1aaa58b72e673764eb012899d9",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d9002a1aaa58b72e673764eb012899d9",
+                    "content": "True"
+                  },
+                  {
+                    "id": "111c770e6c9e94fa5605c085c6bc2c68",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 35,
+            "prev_question_count": 34,
+            "contents": [
+              {
+                "id": 27409062,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which of the following are true about the length of the Sprint?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "847c44b606fed1e5e43e9f0b9f476bb3",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "ece998d858453adda21e09e8f48d599c",
+                    "content": "Sprint length is determined during Sprint Planning, and should hold the time it will take to build the planned features in the upcoming Sprint, but does not include time for any testing."
+                  },
+                  {
+                    "id": "847c44b606fed1e5e43e9f0b9f476bb3",
+                    "content": "All Sprints must be one month or less."
+                  },
+                  {
+                    "id": "9057d42e781d3363616fc984e0e75714",
+                    "content": "The length of the Sprint should be proportional to the work that is done in between Sprints."
+                  },
+                  {
+                    "id": "bd9cd16002fa430f348a721f4bf6eee2",
+                    "content": "Sprint length is determined during Sprint Planning, and should be long enough to make sure the Scrum Team can deliver what is to be accomplished in the upcoming Sprint"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 36,
+            "prev_question_count": 35,
+            "contents": [
+              {
+                "id": 25029039,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What happens if the Scrum Team cannot complete its work by the end of the Sprint?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "d383c89219ae9f15a9fce14ac3460f95",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "8894211ddaf561769042ec7afbea691b",
+                    "content": "The Sprint is extended and future Sprints use this new duration."
+                  },
+                  {
+                    "id": "d383c89219ae9f15a9fce14ac3460f95",
+                    "content": "The Sprint length is unchanged and the Scrum Team continuously learns and adapts."
+                  },
+                  {
+                    "id": "ba1baddc9c159f0cf14cbac5736114c3",
+                    "content": "The Sprint is extended temporarily. Lessons are taken to ensure it does not happen again."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 37,
+            "prev_question_count": 36,
+            "contents": [
+              {
+                "id": 25029025,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Product Owner makes sure the Developers select enough from the Product Backlog for a Sprint to satisfy the stakeholders.",
+                "user_answer": "139c055bec8d250f9abb977b1c8cc48a",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "5d93f1c6fc5611eaeada183cd3804504",
+                    "content": "True"
+                  },
+                  {
+                    "id": "139c055bec8d250f9abb977b1c8cc48a",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 38,
+            "prev_question_count": 37,
+            "contents": [
+              {
+                "id": 25028965,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What is the purpose of a Sprint Review?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "caa00bb364cc364a0a50a00b8c0018a0",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "0b85cad52a0cc14106b568f64b4cb18d",
+                    "content": "To build team spirit."
+                  },
+                  {
+                    "id": "f60ff03dae7a9a9113116e3e7b8c4169",
+                    "content": "To take time to judge the validity of the project."
+                  },
+                  {
+                    "id": "85b9902ef16ea0d9db2b2a0d48d802cc",
+                    "content": "To review the Scrum Team's activities and processes during the Sprint."
+                  },
+                  {
+                    "id": "caa00bb364cc364a0a50a00b8c0018a0",
+                    "content": "To inspect the product Increment with the stakeholders and collect feedback on next steps."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 39,
+            "prev_question_count": 38,
+            "contents": [
+              {
+                "id": 29636201,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "6a11f56db5b385e4e58c502e60ba0605",
+                  "ed8d09c9eda0c9f31c80a9a9de07f956"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "c7bfce553faf2f9d95584b43955b52d6",
+                    "content": "To be able to punish the team when they do not meet their velocity goal for the Sprint."
+                  },
+                  {
+                    "id": "4ca5832f01017857570b2ae8e9c3aa02",
+                    "content": "The Product Owner should not concern themselves with meeting the Definition of Done, it is the Developer’s responsibility."
+                  },
+                  {
+                    "id": "ed8d09c9eda0c9f31c80a9a9de07f956",
+                    "content": "The Definition of Done can affect the product’s total cost of ownership."
+                  },
+                  {
+                    "id": "015d621bfc26fc513a95c36c802bc51f",
+                    "content": "To have complete transparency into what has been done at the end of each Sprint."
+                  },
+                  {
+                    "id": "6a11f56db5b385e4e58c502e60ba0605",
+                    "content": "To forecast the team's productivity over time."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 40,
+            "prev_question_count": 39,
+            "contents": [
+              {
+                "id": 25029480,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog?\r\n[ul][li]Stability requirements[/li][li]Performance requirements[/li][li]Product Functionality[/li][li]Documentation[/li][li]Fixes[/li][/ul]\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "7dcee53f9be839c565025c4c8d66e395",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "7dcee53f9be839c565025c4c8d66e395",
+                    "content": "Yes, they all belong on the Product Backlog. The Product Backlog is supposed to be the “single source of truth” for all the work for the product."
+                  },
+                  {
+                    "id": "0baeaa2888b602d2f47c3af3c4dde1ec",
+                    "content": "No. Product Backlog is a tool for the Product Owner. The Product Owner represents the users and stakeholders. Other types of requirements should be managed separately by the Developers. They are not the Product Owner’s concern."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 41,
+            "prev_question_count": 40,
+            "contents": [
+              {
+                "id": 25029466,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] All planned work for the Product done by the Scrum Team must originate from the Product Backlog.",
+                "user_answer": "d6148b9bb1a915de5a95bf8ea831eaa6",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "34eeaa207fc9b17c361c5a0e486f2515",
+                    "content": "True"
+                  },
+                  {
+                    "id": "d6148b9bb1a915de5a95bf8ea831eaa6",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 42,
+            "prev_question_count": 41,
+            "contents": [
+              {
+                "id": 26443865,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When the Developers determine that they will not be able to finish the complete forecast, who has to be present when reviewing and adjusting the Sprint work selected?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "3c27a59668d21309551dfea230f858e1",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "89714a0975d35eafaf507a44f26d832b",
+                    "content": "The Product Owner and all stakeholders."
+                  },
+                  {
+                    "id": "914ee199cacb40e41c8bdeb036ec0568",
+                    "content": "The Scrum Master, project manager and the Developers"
+                  },
+                  {
+                    "id": "3c27a59668d21309551dfea230f858e1",
+                    "content": "The Product Owner and the Developers."
+                  },
+                  {
+                    "id": "a41feace9b025b0d38d486fdca0805a5",
+                    "content": "The Scrum Master and the Developers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 43,
+            "prev_question_count": 42,
+            "contents": [
+              {
+                "id": 25029027,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Who does the work to make sure Product Backlog items conform to the Definition of Done?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "55cd418d6e9fde2a2c0f9eeaecd379af",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "e4d3e360838234b8e079f80cd3a9658a",
+                    "content": "The Quality Assurance Team."
+                  },
+                  {
+                    "id": "a27e8fc9b1ccb504eb43a99e7e1b55eb",
+                    "content": "The Scrum Master."
+                  },
+                  {
+                    "id": "55cd418d6e9fde2a2c0f9eeaecd379af",
+                    "content": "The Developers."
+                  },
+                  {
+                    "id": "85bf12fdfeb395c6d4dc79e77f884a8b",
+                    "content": "The Product Owner."
+                  },
+                  {
+                    "id": "631c8c646bf2887800d4c6220bdd7d01",
+                    "content": "The Scrum Team."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 44,
+            "prev_question_count": 43,
+            "contents": [
+              {
+                "id": 27294991,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "A Product Owner is accountable for maximizing the value of the product that is the result of the work of the Scrum Team. Which of the following can be delegated to others, while the Product Owner remains accountable for the work?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "3f81a3f6ddd27bca0f38a7b53ba95462",
+                  "d24dfe91503e33a7eeb5e23214061fd4"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "8e3f7395513c68aef1d35f01855b3ca2",
+                    "content": "Attending the Sprint Review."
+                  },
+                  {
+                    "id": "41d0d1ca3083cd4168f75bbf048583ad",
+                    "content": "Attending the Sprint Retrospective."
+                  },
+                  {
+                    "id": "d24dfe91503e33a7eeb5e23214061fd4",
+                    "content": "Developing and communicating the Product Goal."
+                  },
+                  {
+                    "id": "3f81a3f6ddd27bca0f38a7b53ba95462",
+                    "content": "Ordering Product Backlog items."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 45,
+            "prev_question_count": 44,
+            "contents": [
+              {
+                "id": 29636203,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Scrum requires that the Product Owner must use which of the following items?\n\n[b](choose all that apply)[/b]",
+                "user_answer": [
+                  "03604d853867a46a85ff58a8315da05c"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "f0f6e0a29ac8ced5d980e315bcd6c431",
+                    "content": "Burndown chart."
+                  },
+                  {
+                    "id": "d81d9eb1c2a99ec95a422fad40ce22f3",
+                    "content": "Feature burn-up."
+                  },
+                  {
+                    "id": "7a3688b40e6650743c395ce2666f6bc7",
+                    "content": "Critical Path Analysis."
+                  },
+                  {
+                    "id": "bbf09b8bb1fe1c78cf94c3e9602c9df3",
+                    "content": "Project Gantt chart."
+                  },
+                  {
+                    "id": "03604d853867a46a85ff58a8315da05c",
+                    "content": "None of the above."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 46,
+            "prev_question_count": 45,
+            "contents": [
+              {
+                "id": 28612506,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] A Product Owner should measure product value by the increase in the team's velocity.",
+                "user_answer": "e4ad6c4e1787bb1bd2ba74ec1851ab1f",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "2aef7cfeccebbbaa63c0618fc5952f45",
+                    "content": "True"
+                  },
+                  {
+                    "id": "e4ad6c4e1787bb1bd2ba74ec1851ab1f",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 47,
+            "prev_question_count": 46,
+            "contents": [
+              {
+                "id": 25861075,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?\r\n\r\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "3c4ffb53e1a50f04bc6c85dbd075ab8b",
+                  "de450783c1c217abea7c077df542b78c"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "afbe572dc43599df6b5745510db7f14e",
+                    "content": "Avoid distracting the Scrum Team by maintaining newly gathered Product Backlog items in a separate Product Backlog until they are fully understood."
+                  },
+                  {
+                    "id": "2fdfdbb8a72ce67926bcb66814b66f43",
+                    "content": "Hand off ownership of the Product Backlog to someone else."
+                  },
+                  {
+                    "id": "3c4ffb53e1a50f04bc6c85dbd075ab8b",
+                    "content": "Only fully describe Product Backlog items when it seems likely they will be implemented."
+                  },
+                  {
+                    "id": "de450783c1c217abea7c077df542b78c",
+                    "content": "Remove items from the Product Backlog that have not been addressed in a long time."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 48,
+            "prev_question_count": 47,
+            "contents": [
+              {
+                "id": 28612503,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "7fb2289eb61e92a5c0ef2dcdb0f48107",
+                  "0562709e8350520a02a50c408650266a"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "7fb2289eb61e92a5c0ef2dcdb0f48107",
+                    "content": "The Product Backlog is available to all stakeholders."
+                  },
+                  {
+                    "id": "5194467ae93ef9dc716c8d3b9bbdff6a",
+                    "content": "The Product Backlog only has work for the next 2 Sprints."
+                  },
+                  {
+                    "id": "274cff5295ef73b7bcca59abee31eb7e",
+                    "content": "The Product Backlog is managed using a web-based tool."
+                  },
+                  {
+                    "id": "8e69ab24c6f62caebe376636145a7416",
+                    "content": "Each Product Backlog item has a MoSCoW priority."
+                  },
+                  {
+                    "id": "0562709e8350520a02a50c408650266a",
+                    "content": "The Product Backlog is ordered."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 49,
+            "prev_question_count": 48,
+            "contents": [
+              {
+                "id": 26424821,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "2937e8d999b8ac6eb6124d8b1bff70e8",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "d67b458ba7ec77dc4bb5fb2dc4703cda",
+                    "content": "Without a new vocabulary as a reminder of the change, very little change may actually happen."
+                  },
+                  {
+                    "id": "41905600890acbb629dc74c42d3c3e98",
+                    "content": "The organization may not understand what has changed within Scrum and the benefits of Scrum may be lost."
+                  },
+                  {
+                    "id": "fdd4434476fccc1716c5901faccb6a2a",
+                    "content": "Management may feel less anxious."
+                  },
+                  {
+                    "id": "2937e8d999b8ac6eb6124d8b1bff70e8",
+                    "content": "All answers apply."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 50,
+            "prev_question_count": 49,
+            "contents": [
+              {
+                "id": 25029048,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What enhances the transparency of an Increment?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "239db7e5b47553b7a0f59a4f7a6cc810",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "239db7e5b47553b7a0f59a4f7a6cc810",
+                    "content": "Doing all work needed to meet the Definition of Done."
+                  },
+                  {
+                    "id": "271c5423b56378eba8f30a068dd83d81",
+                    "content": "Updating Sprint tasks properly in the electronic tracking tool."
+                  },
+                  {
+                    "id": "762aaa058435d9ccc16ff52ecc830d7b",
+                    "content": "Keeping track of and estimating all undone work to be completed in a “hardening” Sprint."
+                  },
+                  {
+                    "id": "0c6ece328b2bd48528229c5b1c893f1a",
+                    "content": "Reporting Sprint progress to the stakeholders daily."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 51,
+            "prev_question_count": 50,
+            "contents": [
+              {
+                "id": 28431955,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "A Scrum Master is working with a Scrum Team that has Developers in different physical locations. The Developers meet in a variety of meeting rooms and have much to do logistically (for example: reserve meeting rooms and set up conference calls) before the Daily Scrum. What action should the Scrum Master take?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "755ed77139213b50a3e6372862cee0f1",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "755ed77139213b50a3e6372862cee0f1",
+                    "content": "Allow the Developers to self-manage and determine for themselves what to do."
+                  },
+                  {
+                    "id": "af5c3eb677ad584a4bf0162e7adc708c",
+                    "content": "Ask the Developers to alternate who is responsible for meeting setup."
+                  },
+                  {
+                    "id": "0a980c4f5e5175d2cff0fbf944684527",
+                    "content": "Inform management and ask them to solve it."
+                  },
+                  {
+                    "id": "ccf69d8321e147ebb716ada9d8b6f9e5",
+                    "content": "Set up the meeting and tell the Scrum Team that is how it will be done."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 52,
+            "prev_question_count": 51,
+            "contents": [
+              {
+                "id": 29636202,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Which metrics will help a Product Owner determine if a product is delivering value?\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "bdff2344b554ae78cca43157aa4ca785",
+                  "ee322f94f5e122e94638e83703aae85a"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "ee322f94f5e122e94638e83703aae85a",
+                    "content": "Percentage of scope implemented."
+                  },
+                  {
+                    "id": "08667064d98ccf4bfb562651cb51ce52",
+                    "content": "Velocity."
+                  },
+                  {
+                    "id": "bdff2344b554ae78cca43157aa4ca785",
+                    "content": "Time to market."
+                  },
+                  {
+                    "id": "0419ae325556457a68589f7d6dce43ba",
+                    "content": "Productivity."
+                  },
+                  {
+                    "id": "42efc7e00572f7b49e04ec379d888842",
+                    "content": "Customer satisfaction."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 53,
+            "prev_question_count": 52,
+            "contents": [
+              {
+                "id": 25029477,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Which of the following are criteria to order Product Backlog items?\r\n\r\n[b](choose all that apply)[/b]",
+                "user_answer": [
+                  "4fbc3bc3a6a587f3d1aeca0db2775c6d",
+                  "85151571740211e10d4880f7090b1e3f",
+                  "5606fa509318e70ec4a48b4b2b063ae8"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "4fbc3bc3a6a587f3d1aeca0db2775c6d",
+                    "content": "Value of Product Backlog items."
+                  },
+                  {
+                    "id": "85151571740211e10d4880f7090b1e3f",
+                    "content": "Dependencies between Product Backlog items."
+                  },
+                  {
+                    "id": "5606fa509318e70ec4a48b4b2b063ae8",
+                    "content": "Dependencies to other products."
+                  },
+                  {
+                    "id": "2c49fd5e3ba4167aced7ef04b1a45ab8",
+                    "content": "The availability of the Scrum Master."
+                  },
+                  {
+                    "id": "b0cfb30614e7f5ed78ecd9c75c44a430",
+                    "content": "All of the above."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 54,
+            "prev_question_count": 53,
+            "contents": [
+              {
+                "id": 25028958,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When is the Sprint Backlog created?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "b4067260d8bf5c439872d0ecbab53ee3",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "32f38fa908986a50a4a701fd9c08ecdb",
+                    "content": "Prior to Sprint Planning."
+                  },
+                  {
+                    "id": "62be9e89a83236323e131c67ba8815cb",
+                    "content": "During refinement."
+                  },
+                  {
+                    "id": "61e7de32a13258047e63017af793c304",
+                    "content": "During the Sprint Retrospective."
+                  },
+                  {
+                    "id": "b4067260d8bf5c439872d0ecbab53ee3",
+                    "content": "During Sprint Planning."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 55,
+            "prev_question_count": 54,
+            "contents": [
+              {
+                "id": 32570460,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What does it mean for a Scrum Team to be cross-functional?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "3371700ba770e1061e5bb676189587c4",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "0899bbcb2c720f54ff0d7e5d772b8ca1",
+                    "content": "Developers on the Scrum Team work closely with business analysts, architects, developers, and testers who are not on the team."
+                  },
+                  {
+                    "id": "3371700ba770e1061e5bb676189587c4",
+                    "content": "The Scrum Team includes skilled individuals who together have all the skills necessary to create value each Sprint."
+                  },
+                  {
+                    "id": "e0ebd3031f864c5e27f71d766326fdef",
+                    "content": "The Scrum Team is a virtual team drawing from separate teams of business analysts, architects, developers, and testers."
+                  },
+                  {
+                    "id": "7d028e9fd96c275d8d641afdb9b13adc",
+                    "content": "The Scrum Team includes not only developers but also business analysts, architects, and testers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 56,
+            "prev_question_count": 55,
+            "contents": [
+              {
+                "id": 25029038,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Why do the Developers need a Sprint Goal?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "68858643b173a64723226fda676b29ff",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "59f0b5893696c92c7362d4a483c456c3",
+                    "content": "Sprint Goals are not valuable. Everything is known from the Product Backlog."
+                  },
+                  {
+                    "id": "6b9715b9236ae48ee867f7076b5792cc",
+                    "content": "A Sprint Goal ensures that all of the Product Backlog items selected for the Sprint are implemented."
+                  },
+                  {
+                    "id": "68858643b173a64723226fda676b29ff",
+                    "content": "The Developers are more focused with a common yet specific goal."
+                  },
+                  {
+                    "id": "12716a1bbd973c9041467210af60f3ce",
+                    "content": "A Sprint Goal only gives purpose to Sprint 0."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 57,
+            "prev_question_count": 56,
+            "contents": [
+              {
+                "id": 25028970,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When does the second Sprint start?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "22f3df432ef64ad1b8bb7666b86242a8",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "83a84daa5f50ea9b5e555681a4c84d3a",
+                    "content": "After the customer completes acceptance testing of the first Sprint."
+                  },
+                  {
+                    "id": "a539973003de5b944aa2f9f7153e3a81",
+                    "content": "Once the architectural changes for the second Sprint are approved by the senior architect."
+                  },
+                  {
+                    "id": "22f3df432ef64ad1b8bb7666b86242a8",
+                    "content": "Immediately after the first Sprint."
+                  },
+                  {
+                    "id": "2880a9acb56d86530cdf213085a4107e",
+                    "content": "After the Product Backlog items for the second Sprint have been selected."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 58,
+            "prev_question_count": 57,
+            "contents": [
+              {
+                "id": 25028933,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What does it mean to say that an event has a timebox?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "b5a6b986a62d5e9b9b4fd048d9245600",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "b5a6b986a62d5e9b9b4fd048d9245600",
+                    "content": "The event can take no more than a maximum amount of time."
+                  },
+                  {
+                    "id": "53a2f0fb826eb1109ef6e95b9fe0e966",
+                    "content": "The event must take at least a minimum amount of time."
+                  },
+                  {
+                    "id": "633a99de6288213e4719437f7d511d19",
+                    "content": "The event must happen by a given time."
+                  },
+                  {
+                    "id": "9b306277648de280a10982371e937a62",
+                    "content": "The event must happen at a set time."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 59,
+            "prev_question_count": 58,
+            "contents": [
+              {
+                "id": 25029062,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which statement best describes a Product Owner's responsibility?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "a4f6581c22e5346c68cb5b80d043ff99",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "0253cb4a7ce85fa4c7aa2f4be891c043",
+                    "content": "Ensuring that the work meets the commitments to the stakeholders."
+                  },
+                  {
+                    "id": "a4f6581c22e5346c68cb5b80d043ff99",
+                    "content": "Optimizing the value of the work the Scrum Team does."
+                  },
+                  {
+                    "id": "1d60e339667af67925f8c5eecae42509",
+                    "content": "Keep stakeholders from distracting the Developers."
+                  },
+                  {
+                    "id": "9e0d87512d43ce12213daa6a61169e4f",
+                    "content": "Directing the Developers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 60,
+            "prev_question_count": 59,
+            "contents": [
+              {
+                "id": 25029463,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "A product’s success is measured by:\r\n\r\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "2fccc54fbb74313473c5392d33a7e5a2",
+                  "cf4753dfa0f4bea0887c8625bbce81af",
+                  "2370c6f4befaf42679f9afa1d2c9c569"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "cf4753dfa0f4bea0887c8625bbce81af",
+                    "content": "The impact on cost."
+                  },
+                  {
+                    "id": "0a06cf38bc1c3ff2b422d47bb77b6ee9",
+                    "content": "The impact on my performance rating."
+                  },
+                  {
+                    "id": "2fccc54fbb74313473c5392d33a7e5a2",
+                    "content": "The impact on revenue."
+                  },
+                  {
+                    "id": "e8e13701496ab000ef67d3d735c8e9f0",
+                    "content": "The impact on my boss's mood."
+                  },
+                  {
+                    "id": "e317f2fb10e283864ed12b73c225c2f4",
+                    "content": "The delivery of upfront defined scope compared to the upfront planned time."
+                  },
+                  {
+                    "id": "2370c6f4befaf42679f9afa1d2c9c569",
+                    "content": "The impact on customer satisfaction."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 61,
+            "prev_question_count": 60,
+            "contents": [
+              {
+                "id": 29636199,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "The job of a Product Owner focuses on the following:\n\n[b](choose the best two answers)[/b]",
+                "user_answer": [
+                  "66ca994c5f082b60e3e377b38d696925",
+                  "58c253869ee8d7c9ef3dafa82050ee5c"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "66ca994c5f082b60e3e377b38d696925",
+                    "content": "Working with customers and stakeholders to identify the most valuable product requirements."
+                  },
+                  {
+                    "id": "523d2c3de2549688f33b5cacb00c8fe2",
+                    "content": "Clearly communicating project or release status and strategies to customers and stakeholders."
+                  },
+                  {
+                    "id": "1305a67f9ee0a0c2237ad4d70f06b959",
+                    "content": "Being with the Scrum Team all the time, just in case they need me to clarify a requirement."
+                  },
+                  {
+                    "id": "58c253869ee8d7c9ef3dafa82050ee5c",
+                    "content": "Writing clear, transparent User Stories."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 62,
+            "prev_question_count": 61,
+            "contents": [
+              {
+                "id": 25029015,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] An Increment must be released to customers or users at the end of each Sprint.",
+                "user_answer": "4834112bff28a556b1e1c65dc024fa1d",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "249160f407c8cc6296c4777b4a9cac31",
+                    "content": "True"
+                  },
+                  {
+                    "id": "4834112bff28a556b1e1c65dc024fa1d",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 63,
+            "prev_question_count": 62,
+            "contents": [
+              {
+                "id": 28735177,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "When is it most appropriate for a Scrum Team to change the Definition of Done?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "25baa857397fe84fa88927f1faabb3eb",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "b13ab884085141bee6d7b797b841fc5b",
+                    "content": "Prior to starting a new project."
+                  },
+                  {
+                    "id": "cd4b20eb12787df23d83c139056970f6",
+                    "content": "During Sprint Planning."
+                  },
+                  {
+                    "id": "3429a094d1d5e5ec51eb836d1789776a",
+                    "content": "During Product Backlog refinement."
+                  },
+                  {
+                    "id": "25baa857397fe84fa88927f1faabb3eb",
+                    "content": "During the Sprint Retrospective."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 64,
+            "prev_question_count": 63,
+            "contents": [
+              {
+                "id": 28612507,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?",
+                "user_answer": "4fed7d61ba08224195b8bc381ca6bc68",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "e3d2430a42670906e94f71f46cc2f351",
+                    "content": "True"
+                  },
+                  {
+                    "id": "4fed7d61ba08224195b8bc381ca6bc68",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 65,
+            "prev_question_count": 64,
+            "contents": [
+              {
+                "id": 29636211,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Your management has asked you to take the lead in the development of a new product. Six teams new to Scrum will build this product. \n\nYou have gathered a number of requirements and ideas into an early form of a Product Backlog. How would you minimize dependencies between the Scrum Teams?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "399de2b4a35819668f972a99898e0d80",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "cc76c8cdd455b724501e05d79a8854c8",
+                    "content": "You divide Product Backlog items among the six Product Owners."
+                  },
+                  {
+                    "id": "477f0f333a28073db368c09bb0622f0c",
+                    "content": "You create an independent Product Backlog per Scrum Team."
+                  },
+                  {
+                    "id": "399de2b4a35819668f972a99898e0d80",
+                    "content": "You work with the Developers on how to best analyze and break apart the work."
+                  },
+                  {
+                    "id": "a14d613cf717eb14733d479e64530aa5",
+                    "content": "You raise this as an impediment with the Scrum Master."
+                  },
+                  {
+                    "id": "a5aea55e6a9430ce959b038211e425de",
+                    "content": "You identify the dependencies and re-order the Product Backlog for the other five Product Owners."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 66,
+            "prev_question_count": 65,
+            "contents": [
+              {
+                "id": 28076566,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Scrum Team is accountable for creating a valuable increment every Sprint.",
+                "user_answer": "37c5982f4874c2b95451a93afb47c885",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "37c5982f4874c2b95451a93afb47c885",
+                    "content": "True"
+                  },
+                  {
+                    "id": "595c2b0886725dff59b5c10ed2330adf",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 67,
+            "prev_question_count": 66,
+            "contents": [
+              {
+                "id": 25029476,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] The Product Owner must write all of the Product Backlog items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.",
+                "user_answer": "ed23c7471b9fc94794c32e3224b12e5c",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "aaa98f8abe05491e8599b0f7183ef7d1",
+                    "content": "True"
+                  },
+                  {
+                    "id": "ed23c7471b9fc94794c32e3224b12e5c",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 68,
+            "prev_question_count": 67,
+            "contents": [
+              {
+                "id": 29636208,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What is the responsibility of the Product Owner in crafting the Sprint Goal?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "bbf661504859b446c86c09ce5f24cdab",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "355a7fdf57b88e8c2c73f91cb7b63738",
+                    "content": "The Product Owner cannot attend Sprint Planning without having documented the Sprint Goal in advance."
+                  },
+                  {
+                    "id": "226ea85fff85e4075dfbf95fe0868b8b",
+                    "content": "The Product Owner defines the scope for a Sprint and therefore also the Sprint Goal."
+                  },
+                  {
+                    "id": "bbf661504859b446c86c09ce5f24cdab",
+                    "content": "The Product Owner should come to Sprint Planning with a business objective in mind and work with the Developers to craft the Sprint Goal."
+                  },
+                  {
+                    "id": "b9941395376d210048c8c4e837a35b6a",
+                    "content": "The Product Owner has no responsibility for the Sprint Goal. It is the sole responsibility of the Developers."
+                  },
+                  {
+                    "id": "4ac902f691ca0ea10a2284ac9761d641",
+                    "content": "The Product Owner must work with stakeholders to set each Sprint's Goal."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 69,
+            "prev_question_count": 68,
+            "contents": [
+              {
+                "id": 25028918,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Developers are self-managing, which of the following do they manage? \r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "cecfa20b7c50c12a8107b40f34f4d1cb",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "cecfa20b7c50c12a8107b40f34f4d1cb",
+                    "content": "Sprint Backlog."
+                  },
+                  {
+                    "id": "bf24dfe9495f068056d334f638551e45",
+                    "content": "Sprint length."
+                  },
+                  {
+                    "id": "29e982011b90d656d804b3e99995eb65",
+                    "content": "Product Backlog ordering."
+                  },
+                  {
+                    "id": "39b086a782e70e412b734055179fe889",
+                    "content": "Stakeholders for the Sprint Review."
+                  },
+                  {
+                    "id": "25d3eb2dc0e965975a2e9b2f225c22f0",
+                    "content": "When to release, based on its progress."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 70,
+            "prev_question_count": 69,
+            "contents": [
+              {
+                "id": 29636205,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "What are three advantages of a Product Owner sharing a clearly defined Product Goal with the Scrum Team?\n\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "d752b74df64466f552cc8298898d774e",
+                  "11d0834661b7c73419bf914d9223b5e6",
+                  "7afa02aa7bca424b1834a05973d00649"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "efec9d3f4340ab8b3665efd7eccbd402",
+                    "content": "It is not mandatory in Scrum. There is no real advantage."
+                  },
+                  {
+                    "id": "7afa02aa7bca424b1834a05973d00649",
+                    "content": "It provides a good overall direction so Sprints will feel less like isolated pieces of work."
+                  },
+                  {
+                    "id": "11d0834661b7c73419bf914d9223b5e6",
+                    "content": "It is easier to inspect incremental progress at the Sprint Review."
+                  },
+                  {
+                    "id": "d752b74df64466f552cc8298898d774e",
+                    "content": "It helps the Developers estimate the date that the Product Backlog will be complete."
+                  },
+                  {
+                    "id": "a3fd22d71274b24dcf43b5b673217d7f",
+                    "content": "It helps the Scrum Team keep focus and they can weigh any decision against the Product Goal"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 71,
+            "prev_question_count": 70,
+            "contents": [
+              {
+                "id": 25029445,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "Why is it important that there is only one Product Owner per product? \r\n\r\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "bded3f75e70b8f071b60c50d269c199e",
+                  "14b33929b3709c0737f72ada5aa20809",
+                  "603e60c99c43c5217671f531a41760da"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "842a54ec99fd5629834e203f73340670",
+                    "content": "It would confuse the stakeholders if they had to work with more than one person."
+                  },
+                  {
+                    "id": "14b33929b3709c0737f72ada5aa20809",
+                    "content": "It is clear who is accountable for the ultimate value of the product."
+                  },
+                  {
+                    "id": "bded3f75e70b8f071b60c50d269c199e",
+                    "content": "The Scrum Team always knows who determines the order of the Product Backlog."
+                  },
+                  {
+                    "id": "2d0f88789a7ec477ff0e54b81158d42b",
+                    "content": "The Scrum Master knows who acts as their backup while on vacation."
+                  },
+                  {
+                    "id": "603e60c99c43c5217671f531a41760da",
+                    "content": "It helps avoid barriers to effective communication and rapid decision-making."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 72,
+            "prev_question_count": 71,
+            "contents": [
+              {
+                "id": 25029487,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "A Product Backlog is: \r\n\r\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "1c275c4fb44b7b63e824493ce3165ea3",
+                  "c449461a1fee038fdd44d4693c7d2fda",
+                  "f802f98c2dfccebd261b3bf52bfb2273"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "1c275c4fb44b7b63e824493ce3165ea3",
+                    "content": "Managed by the Product Owner."
+                  },
+                  {
+                    "id": "8009814e1d21c35c07aae58178784137",
+                    "content": "Only visible to the Product Owner and stakeholders."
+                  },
+                  {
+                    "id": "c449461a1fee038fdd44d4693c7d2fda",
+                    "content": "Ordered based on priority, value, dependencies, and risk."
+                  },
+                  {
+                    "id": "53738d14f846044f6516486142b39a4f",
+                    "content": "An exhaustive list of upfront approved requirements to be implemented."
+                  },
+                  {
+                    "id": "f802f98c2dfccebd261b3bf52bfb2273",
+                    "content": "An inventory of things to be done for the Product."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 73,
+            "prev_question_count": 72,
+            "contents": [
+              {
+                "id": 25029464,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "In order to maximize the value of the product, a Product Owner needs awareness of the following:\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "54ab8eb3a8662692f2555178fb7b8661",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "309de73f8fd4bc4e37e1598d64ab1250",
+                    "content": "Competitive research."
+                  },
+                  {
+                    "id": "e625ff42c6c3a78b8cc8edc11fdf811d",
+                    "content": "Customer feedback."
+                  },
+                  {
+                    "id": "7bf83445703613b4d0980cac79fb08e7",
+                    "content": "Product vision."
+                  },
+                  {
+                    "id": "37387ad960d8833d729515264947f0d5",
+                    "content": "Forecasting & feasibility."
+                  },
+                  {
+                    "id": "54ab8eb3a8662692f2555178fb7b8661",
+                    "content": "All of the above."
+                  },
+                  {
+                    "id": "9187f3650a06c642b360245a640a3621",
+                    "content": "None of the above."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 74,
+            "prev_question_count": 73,
+            "contents": [
+              {
+                "id": 30033668,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "What is the typical size for a Scrum Team?\n\n[b](choose the best answer)[/b]",
+                "user_answer": "fdc9610d8009e6a65cb36596f5dc3e0c",
+                "flagged": true,
+                "has_bookmarked": true,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "01df7b353d48a77c22496807bc4b5256",
+                    "content": "At least 7."
+                  },
+                  {
+                    "id": "653cd26c70557908c72038cc3beab1d4",
+                    "content": "9."
+                  },
+                  {
+                    "id": "fdc9610d8009e6a65cb36596f5dc3e0c",
+                    "content": "10 or fewer."
+                  },
+                  {
+                    "id": "091352786268db0a5d9b08fef3c48105",
+                    "content": "7 plus or minus 3."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 75,
+            "prev_question_count": 74,
+            "contents": [
+              {
+                "id": 25028934,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Which statement best describes Scrum?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "10766183360aaa05d11f866b205ad9fb",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "10766183360aaa05d11f866b205ad9fb",
+                    "content": "A framework to generate value through adaptive solutions for complex problems."
+                  },
+                  {
+                    "id": "7507d96d05e45e3630495a02b815b194",
+                    "content": "A defined and predictive process that conforms to the principles of Scientific Management."
+                  },
+                  {
+                    "id": "3e84b244aba7960fd8d7fc464c099b90",
+                    "content": "A complete methodology that defines how to develop software."
+                  },
+                  {
+                    "id": "b2b12e0c261c05e73a0f049c1275a145",
+                    "content": "A cookbook that defines best practices for software development."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 76,
+            "prev_question_count": 75,
+            "contents": [
+              {
+                "id": 25029443,
+                "type": "question",
+                "sub_type": "truefalse",
+                "category": null,
+                "question": "[b]True or False:[/b] Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog item before it may be selected in Sprint Planning.",
+                "user_answer": "38fc03821c07451745e35dfe0bff8b6b",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "c3877482af22b013125d1d32c11a6d44",
+                    "content": "True"
+                  },
+                  {
+                    "id": "38fc03821c07451745e35dfe0bff8b6b",
+                    "content": "False"
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 77,
+            "prev_question_count": 76,
+            "contents": [
+              {
+                "id": 29636212,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "Who is accountable for creating a valuable and usable Increment each Sprint? \n\n[b](choose the best answer)[/b]",
+                "user_answer": "6fb4c24f057243145db27b9564f4bb6c",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "6fb4c24f057243145db27b9564f4bb6c",
+                    "content": "The Scrum Team."
+                  },
+                  {
+                    "id": "77cfb628c4a8eb69656581b388215b1b",
+                    "content": "The Product Owner."
+                  },
+                  {
+                    "id": "424040f9d283936beaf5bd8b6f39f53a",
+                    "content": "The Scrum Master."
+                  },
+                  {
+                    "id": "7d17180d100e4af3aa3c74a30063b0c7",
+                    "content": "The CEO."
+                  },
+                  {
+                    "id": "7015c4e3f9d5f02bb34b0adba4864ce1",
+                    "content": "The Developers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 78,
+            "prev_question_count": 77,
+            "contents": [
+              {
+                "id": 25028911,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "[b]True or False:[/b] Every Scrum Team must have a Product Owner and Scrum Master.",
+                "user_answer": "e91f9039ab80707c27be5913986ff5ba",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "43ec661f4c8e87cfa3a538402aab17e4",
+                    "content": "False. A Scrum Master is only required when asked for by the Scrum Team."
+                  },
+                  {
+                    "id": "d7c8a4b49f2b353c739678911563eecd",
+                    "content": "True. Each must be 100% dedicated to the Scrum Team."
+                  },
+                  {
+                    "id": "97f604f438ce5fbcfe3e706ee3623ec2",
+                    "content": "False. A Product Owner can be replaced by a subject matter expert in the Scrum Team."
+                  },
+                  {
+                    "id": "e91f9039ab80707c27be5913986ff5ba",
+                    "content": "True. Outcomes are affected by their participation and availability."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 79,
+            "prev_question_count": 78,
+            "contents": [
+              {
+                "id": 25029470,
+                "type": "question",
+                "sub_type": "multiplechoice",
+                "category": null,
+                "question": "The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do?\r\n\r\n[b](choose the best answer)[/b]",
+                "user_answer": "c41d84a2fb33abc9c1f46f0d23f762e9",
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "1fc3046975afd3e07f141be8eafc8975",
+                    "content": "Cancel the Sprint."
+                  },
+                  {
+                    "id": "2bc431869d321d05bd5ed33c6d0eabfe",
+                    "content": "Skip Product Backlog refinement activities."
+                  },
+                  {
+                    "id": "dc17315533ec9284abe9cf36cf8d0e89",
+                    "content": "Change the Sprint Goal."
+                  },
+                  {
+                    "id": "d721155cdff4d9eb05202ae70c6e4749",
+                    "content": "Inform management that more Developers are needed."
+                  },
+                  {
+                    "id": "c41d84a2fb33abc9c1f46f0d23f762e9",
+                    "content": "Re-work the selected Product Backlog items with the Developers to meet the Sprint Goal."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          },
+          {
+            "page": 80,
+            "prev_question_count": 79,
+            "contents": [
+              {
+                "id": 29636207,
+                "type": "question",
+                "sub_type": "multipleresponse",
+                "category": null,
+                "question": "What three things might a Scrum Product Owner focus on to ensure the product delivers value? \n\n[b](choose the best three answers)[/b]",
+                "user_answer": [
+                  "b7c6eec617940b5cdb9efae49d5f8296",
+                  "fe18c4774faab4916361a308e2c327bd",
+                  "2c4fec56b0d85db410920e97c0020845"
+                ],
+                "flagged": false,
+                "has_bookmarked": false,
+                "points": null,
+                "bb_code": true,
+                "options": [
+                  {
+                    "id": "fe18c4774faab4916361a308e2c327bd",
+                    "content": "Direct customer feedback."
+                  },
+                  {
+                    "id": "ac0e556dcfde5e08496af7a2e507c229",
+                    "content": "Minimizing changes to project scope."
+                  },
+                  {
+                    "id": "9df2a52701abda1f8edd107c52e82206",
+                    "content": "Velocity is increasing over time."
+                  },
+                  {
+                    "id": "b7c6eec617940b5cdb9efae49d5f8296",
+                    "content": "How much of the functionality of the product is being used."
+                  },
+                  {
+                    "id": "2c4fec56b0d85db410920e97c0020845",
+                    "content": "How quickly or easily the product can be absorbed and used by its customers."
+                  }
+                ],
+                "max_num_of_option": null
+              }
+            ]
+          }
+        ],
+        "settings": []
+      }
+    ],
+    "test_feedback": "Your test is complete and an email containing your score has been sent. \r\n\r\nYou may also click the button below to view your score.",
+    "category_statistics": null,
+    "points_scored": null,
+    "points_available": null,
+    "points_percentage": null,
+    "date_started": "Wed 15 Mar '23 12:25",
+    "date_finished": "Wed 15 Mar '23 13:24",
+    "duration_in_sec": 3566,
+    "duration": "00:59:26",
+    "pass": true,
+    "time_out": 0,
+    "return_url": "http://www.scrum.org/my-profile?cm_user_id=4ebad704-3940-4765-8819-7f8ca219b0f2&amp;cm_access_list_item=35d7cbc6272247a08e5a59f22776ebf6-2S622865",
+    "return_url_text": "View Your Score",
+    "certificate_url": null,
+    "receipt_url": null,
+    "completed_by_teacher": false
+  },
+  "extra_info_questions": [],
+  "user": {
+    "first_name": null,
+    "last_name": null,
+    "email": null,
+    "extra_info_questions": []
+  }
+}
